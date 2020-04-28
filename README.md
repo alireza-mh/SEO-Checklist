@@ -2,7 +2,7 @@
 
 this repo is intended to help with some SEO suggestion and help you as a checklist for starting SEO on your site and web applications.
 
-- [] Appropriate Domin Dah...! 
+- [ ] Appropriate Domin Dah...! 
 good domain name can boost your SEO rank and make it easy or hard for user to revisit your site.
 - [ ] Appropriate title for Pages (some convention in embed company name among title exam: Home | Company)‍‍‍‍‍‍
 
@@ -33,3 +33,16 @@ User-agent: *
 Disallow:
 ```
 
+- [ ] `sitemap.xml` file can help crawlers to find webpages and also understand the priority you have in mind. if the name is not common here you can add `Sitemap` property inside `robots.txt` [more info](https://stackoverflow.com/questions/23041115/what-should-be-the-name-of-sitemap-file-while-submitting-to-google-webmasters)
+```txt
+# Group 2
+User-agent: *
+Allow: /
+
+Sitemap: http://www.example.com/sitemap.xml
+```
+
+
+- [ ] Find good keywords. it's gonna take a while to find good keywords that help you rank well on search engines try to use keywords and check your hypothesize with tools such as alexa and google trend. Find keywords that is relevant to your site and business and don't try to spend too much time on keywords that your competitors work on them for quite some times, start with easy win keywords at first.
+
+- [ ] Keep your site update. try to regulary update your site content and don't copy and paste content from others, If you do google will detect your content as a duplicate and you gonna get minus point and get punished. keep them original as possible or try to write your understanding from a article you read. try to include intended keyword inside your article
