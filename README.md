@@ -48,10 +48,15 @@ Sitemap: http://www.example.com/sitemap.xml
 - [ ] Keep your site update. try to regulary update your site content and don't copy and paste content from others, If you do google will detect your content as a duplicate and you gonna get minus point and get punished. keep them original as possible or try to write your understanding from a article you read. try to include intended keyword inside your article
 
 - [ ] make your site fast. this can help with your ranking and conversion rate of your business. some fast ways and easy wins to make your site faster are listed below:
+
 1 - use CDN to deliver your site according to user location
+
 2 - optimization of image size and format. try to use image size that match on design. for example card with 250x100 should not have image with original size of 1000x400. also in case of not using transpaernt image try to use jpeg files. there are some sites that you can use for image optimization such as [tinypng](https://tinypng.com/) and [sqoosh](https://squoosh.app/) there are too many things to do but this seems enough for this part
+
 3 - use cache header to make second visit faster
+
 4 - minify and remove unused js or css. here you can use webpack or postcss in case you are working with latest techs of frontend or simply use [minifier](https://www.minifier.org/)
+
 5 - use [AMP](https://developers.google.com/amp). with amp your page gonna serve directly from google and really fast there are some pros and cons and we may cover it later on it own section
 
 ### Tools
@@ -59,4 +64,8 @@ So after implementing all or some of earlier suggestion you need to monitor your
 
 #### Google analytics
 This tools is must have on all website and web apps. you can see user flow and also see all visit to your website. it provides all sorts of informations such as uniqe user visits, bounse rate, realtime visitors, visitors device and more.
+
 you should first create an account for google analytics and add a website and it will provide you a token with a script that you should put inside your head tag. In case you are using react it can be handled by `react-helmet` package. Be aware to create sperate site for `dev` and `production` sites in case you have differant enviroments for development and testing and production. 
+
+### Google Tag Manager
+Here you as a software engineer / frotend developer (since you visit this repo) may ask your self these tools are marketing related and they may ask us to add or change their configs anytime also DevOps and Q/A team gonna involve since in web app you should build another time an release app again for every change. Wouldn't be nice if marketing team do their job and add third party script that they need for their job. `google tag manager` is a solution for this. you as a developer only need to implement and insert it on a web app and after that marketing team can use `GTM` to add differant scripts and the best part is their change gonna be realtime. 
