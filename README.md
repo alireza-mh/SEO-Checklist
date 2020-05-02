@@ -59,6 +59,9 @@ Sitemap: http://www.example.com/sitemap.xml
 
 5 - use [AMP](https://developers.google.com/amp). with amp your page gonna serve directly from google and really fast there are some pros and cons and we may cover it later on it own section
 
+### Use open graph
+This protocol has been proposed by facebook. This protocol helps with sharing web site links in social media. this way any link that will share on twitter, whatsapp and other platform gonna have title, description or images.
+
 ### Tools
 So after implementing all or some of earlier suggestion you need to monitor your visit and gather data to see if they are effective or is there something else you need to do to achive better result. 
 
@@ -69,3 +72,4 @@ you should first create an account for google analytics and add a website and it
 
 ### Google Tag Manager
 Here you as a software engineer / frotend developer (since you visit this repo) may ask your self these tools are marketing related and they may ask us to add or change their configs anytime also DevOps and Q/A team gonna involve since in web app you should build another time an release app again for every change. Wouldn't be nice if marketing team do their job and add third party script that they need for their job. `google tag manager` is a solution for this. you as a developer only need to implement and insert it on a web app and after that marketing team can use `GTM` to add differant scripts and the best part is their change gonna be realtime. 
+
