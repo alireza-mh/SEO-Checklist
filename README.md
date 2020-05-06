@@ -62,6 +62,13 @@ Sitemap: http://www.example.com/sitemap.xml
 ### Use open graph
 This protocol has been proposed by facebook. This protocol helps with sharing web site links in social media. this way any link that will share on twitter, whatsapp and other platform gonna have title, description or images.
 
+#### The four required properties for every page are:
+
+- `og:title` - The title of your object as it should appear within the graph, e.g., "The Rock".
+- `og:type` - The type of your object, e.g., "video.movie". Depending on the type you specify, other properties may also be required.
+- `og:image` - An image URL which should represent your object within the graph.
+- `og:url` - The canonical URL of your object that will be used as its permanent ID in the graph, e.g., "http://www.imdb.com/title/tt0117500/".
+
 ### Tools
 So after implementing all or some of earlier suggestion you need to monitor your visit and gather data to see if they are effective or is there something else you need to do to achive better result. 
 
