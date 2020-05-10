@@ -82,3 +82,6 @@ Here you as a software engineer / frotend developer (since you visit this repo) 
 
 ### Alexa
 alexa is a website that can help you to know your competitors and also potential keywords. it will show you the rank of your website on all the web (don't worry or get happy this is just an estimation). So your rank gonna depend on your traffic or other traffics.
+
+### Similarweb
+This is site is something like alexa but it offers some extra info that you can't find on alexa so checking this site to find your competitors and also find new solution to improve your site gonna be useful.
