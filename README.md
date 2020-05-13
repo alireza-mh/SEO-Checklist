@@ -77,14 +77,14 @@ This tools is must have on all website and web apps. you can see user flow and a
 
 you should first create an account for google analytics and add a website and it will provide you a token with a script that you should put inside your head tag. In case you are using react it can be handled by `react-helmet` package. Be aware to create sperate site for `dev` and `production` sites in case you have differant enviroments for development and testing and production. 
 
-### Google Tag Manager
+#### Google Tag Manager
 Here you as a software engineer / frotend developer (since you visit this repo) may ask your self these tools are marketing related and they may ask us to add or change their configs anytime also DevOps and Q/A team gonna involve since in web app you should build another time an release app again for every change. Wouldn't be nice if marketing team do their job and add third party script that they need for their job. `google tag manager` is a solution for this. you as a developer only need to implement and insert it on a web app and after that marketing team can use `GTM` to add differant scripts and the best part is their change gonna be realtime. 
 
-### Alexa
+#### Alexa
 alexa is a website that can help you to know your competitors and also potential keywords. it will show you the rank of your website on all the web (don't worry or get happy this is just an estimation). So your rank gonna depend on your traffic or other traffics.
 
-### Similarweb
+#### Similarweb
 This is site is something like alexa but it offers some extra info that you can't find on alexa so checking this site to find your competitors and also find new solution to improve your site gonna be useful.
 
-### google search console
+#### google search console
 Todo
