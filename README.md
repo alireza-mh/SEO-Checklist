@@ -23,6 +23,7 @@ good domain name can boost your SEO rank and make it easy or hard for user to re
 </head>
 ```
 - [ ] `robot.txt` file. it will be used bye search engines and you can have black list for path that you don't want to index via search engines. some  [more info](https://moz.com/learn/seo/robotstxt)
+you can also validate your specific url's with robots.txt on this  [address](https://www.google.com/webmasters/tools/robots-testing-tool). This is a tool provided by google.
 
 #### basic format
 ```txt
