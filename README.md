@@ -88,3 +88,7 @@ This is site is something like Alexa but it offers some extra info that you can'
 
 #### google search console
 Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
+
+### Google and SPA
+google will try to index website as fast as possible and also can detect SPA websites but since rendering is expensive it will not gonna be indexed like other website with server side rendering so in many cases you will be ok with only SPA website but in cases that your content is up to date and need to be indexed as fast as possible you need to do some workarounds to server side render your website so google not put your site to the queue for indexing.
+[spa seo mission impossible?](https://www.magnolia-cms.com/blog/spa-seo-mission-impossible.html)
