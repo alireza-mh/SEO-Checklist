@@ -1,6 +1,6 @@
 ## SEO Checklist
 
-this repo is intended to help with some SEO suggestion and help you as a checklist for starting SEO on your site and web applications.
+this repo is intended to help with some SEO suggestions and help you as a checklist for starting SEO on your site and web applications.
 
 - [ ] Appropriate Domin Dah...! 
 good domain name can boost your SEO rank and make it easy or hard for user to revisit your site.
@@ -22,8 +22,10 @@ good domain name can boost your SEO rank and make it easy or hard for user to re
   />
 </head>
 ```
+
 - [ ] `robot.txt` file. it will be used bye search engines and you can have black list for path that you don't want to index via search engines. some  [more info](https://moz.com/learn/seo/robotstxt)
 you can also validate your specific url's with robots.txt on this  [address](https://www.google.com/webmasters/tools/robots-testing-tool). This is a tool provided by google.
+
 
 #### basic format
 ```txt
@@ -44,24 +46,24 @@ Sitemap: http://www.example.com/sitemap.xml
 ```
 
 
-- [ ] Find good keywords. it's gonna take a while to find good keywords that help you rank well on search engines try to use keywords and check your hypothesize with tools such as alexa and google trend. Find keywords that is relevant to your site and business and don't try to spend too much time on keywords that your competitors work on them for quite some times, start with easy win keywords at first.
+- [ ] Find good keywords. it's gonna take a while to find good keywords that help you rank well on search engines try to use keywords and check your hypothesize with tools such as Alexa and google trend. Find keywords that are relevant to your site and business and don't try to spend too much time on keywords that your competitors work on them for quite some time, start with easy win keywords at first.
 
 - [ ] Keep your site update. try to regulary update your site content and don't copy and paste content from others, If you do google will detect your content as a duplicate and you gonna get minus point and get punished. keep them original as possible or try to write your understanding from a article you read. try to include intended keyword inside your article
 
-- [ ] make your site fast. this can help with your ranking and conversion rate of your business. some fast ways and easy wins to make your site faster are listed below:
+- [ ] Make your site fast. this can help with your ranking and conversion rate of your business. some fast ways and easy wins to make your site faster are listed below:
 
 1 - use CDN to deliver your site according to user location
 
-2 - optimization of image size and format. try to use image size that match on design. for example card with 250x100 should not have image with original size of 1000x400. also in case of not using transpaernt image try to use jpeg files. there are some sites that you can use for image optimization such as [tinypng](https://tinypng.com/) and [sqoosh](https://squoosh.app/) there are too many things to do but this seems enough for this part
+2 - optimization of image size and format. try to use image size that matches on design. for example, a card with 250x100 should not have an image with the original size of 1000x400. also in case of not using a transparent image try to use jpeg files. there are some sites that you can use for image optimization such as [tinypng](https://tinypng.com/) and [sqoosh](https://squoosh.app/) there are too many things to do but this seems enough for this part
 
-3 - use cache header to make second visit faster
+3 - use cache header to make the second visit faster
 
-4 - minify and remove unused js or css. here you can use webpack or postcss in case you are working with latest techs of frontend or simply use [minifier](https://www.minifier.org/)
+4 - minify and remove unused js or css. here you can use webpack or postcss in case you are working with the latest techs of frontend or simply use [minifier](https://www.minifier.org/)
 
 5 - use [AMP](https://developers.google.com/amp). with amp your page gonna serve directly from google and really fast there are some pros and cons and we may cover it later on it own section
 
 ### Use open graph
-This protocol has been proposed by facebook. This protocol helps with sharing web site links in social media. this way any link that will share on twitter, whatsapp and other platform gonna have title, description or images.
+This protocol has been proposed by facebook. This protocol helps with sharing web site links in social media. this way any link that will share on twitter, whatsapp and other platform gonna have title, description, or images.
 
 #### The four required properties for every page are:
 
@@ -71,21 +73,25 @@ This protocol has been proposed by facebook. This protocol helps with sharing we
 - `og:url` - The canonical URL of your object that will be used as its permanent ID in the graph, e.g., "http://www.imdb.com/title/tt0117500/".
 
 ### Tools
-So after implementing all or some of earlier suggestion you need to monitor your visit and gather data to see if they are effective or is there something else you need to do to achive better result. 
+So after implementing all or some of earlier suggestions you need to monitor your visit and gather data to see if they are effective or is there something else you need to do to achieve better results. 
 
 #### Google analytics
-This tools is must have on all website and web apps. you can see user flow and also see all visit to your website. it provides all sorts of informations such as uniqe user visits, bounse rate, realtime visitors, visitors device and more.
+This tool is must have on all websites and web apps. you can see user flow and also see all visits to your website. it provides all sorts of information such as unique user visits, bounce rate, realtime visitors, visitors device, and more.
 
-you should first create an account for google analytics and add a website and it will provide you a token with a script that you should put inside your head tag. In case you are using react it can be handled by `react-helmet` package. Be aware to create sperate site for `dev` and `production` sites in case you have differant enviroments for development and testing and production. 
+you should first create an account for google analytics and add a website and it will provide you a token with a script that you should put inside your head tag. In case you are using react it can be handled by `react-helmet` package. Be aware to create a sperate site for `dev` and `production` sites in case you have different enviroments for development and testing and production. 
 
 #### Google Tag Manager
-Here you as a software engineer / frotend developer (since you visit this repo) may ask your self these tools are marketing related and they may ask us to add or change their configs anytime also DevOps and Q/A team gonna involve since in web app you should build another time an release app again for every change. Wouldn't be nice if marketing team do their job and add third party script that they need for their job. `google tag manager` is a solution for this. you as a developer only need to implement and insert it on a web app and after that marketing team can use `GTM` to add differant scripts and the best part is their change gonna be realtime. 
+Here you as a software engineer / frontend developer (since you visit this repo) may ask your self these tools are marketing related and they may ask us to add or change their configs anytime also DevOps and Q/A team gonna involve since in web app you should build another time a release app again for every change. Wouldn't be nice if the marketing team do their job and add third party script that they need for their job. `google tag manager` is a solution for this. you as a developer only need to implement and insert it on a web app and after that marketing team can use `GTM` to add different scripts and the best part is their change gonna be realtime. 
 
 #### Alexa
-alexa is a website that can help you to know your competitors and also potential keywords. it will show you the rank of your website on all the web (don't worry or get happy this is just an estimation). So your rank gonna depend on your traffic or other traffics.
+Alexa is a website that can help you to know your competitors and also potential keywords. it will show you the rank of your website on all the web (don't worry or get happy this is just an estimation). So your rank gonna depend on your traffic or other traffics.
 
 #### Similarweb
-This is site is something like alexa but it offers some extra info that you can't find on alexa so checking this site to find your competitors and also find new solution to improve your site gonna be useful.
+This is site is something like Alexa but it offers some extra info that you can't find on Alexa so checking this site to find your competitors and also find new solution to improve your site gonna be useful.
 
 #### google search console
-Todo
+Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
+
+### Google and SPA
+google will try to index website as fast as possible and also can detect SPA websites but since rendering is expensive it will not gonna be indexed like other website with server side rendering so in many cases you will be ok with only SPA website but in cases that your content is up to date and need to be indexed as fast as possible you need to do some workarounds to server side render your website so google not put your site to the queue for indexing.
+[spa seo mission impossible?](https://www.magnolia-cms.com/blog/spa-seo-mission-impossible.html)
