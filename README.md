@@ -95,3 +95,10 @@ Search Console tools and reports help you measure your site's Search traffic and
 ### Google and SPA
 google will try to index website as fast as possible and also can detect SPA websites but since rendering is expensive it will not gonna be indexed like other website with server side rendering so in many cases you will be ok with only SPA website but in cases that your content is up to date and need to be indexed as fast as possible you need to do some workarounds to server side render your website so google not put your site to the queue for indexing.
 [spa seo mission impossible?](https://www.magnolia-cms.com/blog/spa-seo-mission-impossible.html)
+
+## SEO insight for your site
+You can use google audit which you can find inside devtools of google chrome by openning devtools and chose `audit` tab. it will check your site and help you to fix your SEO errors. Also there are some other online web sites that you can use to get more suggestions about your website SEO.
+- [neilpatel](https://neilpatel.com/seo-analyzer/)
+- [SEOCheckup](https://seositecheckup.com/)
+- [WooRank](https://www.woorank.com/)
+be aware that some. of these websites may not work with SPAs. 
