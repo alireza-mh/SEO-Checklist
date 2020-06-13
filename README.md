@@ -101,4 +101,5 @@ You can use google audit which you can find inside devtools of google chrome by 
 - [neilpatel](https://neilpatel.com/seo-analyzer/)
 - [SEOCheckup](https://seositecheckup.com/)
 - [WooRank](https://www.woorank.com/)
+
 be aware that some. of these websites may not work with SPAs. 
