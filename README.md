@@ -2,7 +2,7 @@
 
 this repo is intended to help with some SEO suggestions and help you as a checklist for starting SEO on your site and web applications.
 
-- [ ] Appropriate Domin Dah...! 
+- [ ] Appropriate Domain Dah...! 
 good domain name can boost your SEO rank and make it easy or hard for user to revisit your site.
 - [ ] Appropriate title for Pages (some convention in embed company name among title exam: Home | Company)‍‍‍‍‍‍
 
