@@ -103,3 +103,7 @@ You can use google audit which you can find inside devtools of google chrome by 
 - [WooRank](https://www.woorank.com/)
 
 be aware that some. of these websites may not work with SPAs. 
+
+### Canonical
+If you have a single page accessible by multiple URLs, or different pages with similar content (for example, a page with both a mobile and a desktop version), Google sees these as duplicate versions of the same page. Google will choose one URL as the canonical version and crawl that, and all other URLs will be considered duplicate URLs and crawled less often. (Resource [google](https://support.google.com/webmasters/answer/139066?hl=en))
+There are some ways to  specify a canonical page that you can refer to on the provided link.
