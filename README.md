@@ -112,3 +112,6 @@ There are some ways to  specify a canonical page that you can refer to on the pr
 Never index search page in case you have search page this may cuase black seo problems and your site have too many page with no data and mark as a duplicate (canonical may help with this).
 Have 404/not found page.
 Do not use too many redirects.
+
+### Hint google for re-crawl
+By adding last modified to site map file you can tell google bot that the content of the page has been changed and need re-crawl. Be aware that google bot would evaluate your changes and if the page change would be minor and not worth re-crawling it will understant and wont trust your last modified property anymore so keep that in mind.[resource](https://www.youtube.com/watch?v=am4g0hXAA8Q&t=926s)
