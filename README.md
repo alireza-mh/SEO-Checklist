@@ -115,3 +115,6 @@ Do not use too many redirects.
 
 ### Hint google for re-crawl
 By adding last modified to site map file you can tell google bot that the content of the page has been changed and need re-crawl. Be aware that google bot would evaluate your changes and if the page change would be minor and not worth re-crawling it will understant and wont trust your last modified property anymore so keep that in mind.[resource](https://www.youtube.com/watch?v=am4g0hXAA8Q&t=926s)
+
+### Knowledge panels
+Knowledge panels are information boxes that appear on Google when you search for entities (people, places, organizations, things) that are in the Knowledge Graph. They are meant to help you get a quick snapshot of information on a topic based on Google’s understanding of available content on the web.
