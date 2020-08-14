@@ -115,3 +115,6 @@ Do not use too many redirects.
 
 ### Hint google for re-crawl
 By adding last modified to site map file you can tell google bot that the content of the page has been changed and need re-crawl. Be aware that google bot would evaluate your changes and if the page change would be minor and not worth re-crawling it will understant and wont trust your last modified property anymore so keep that in mind.[resource](https://www.youtube.com/watch?v=am4g0hXAA8Q&t=926s)
+
+### google ad-words
+Todo
