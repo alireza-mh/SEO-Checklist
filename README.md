@@ -118,3 +118,6 @@ By adding last modified to site map file you can tell google bot that the conten
 
 ### Knowledge panels
 Knowledge panels are information boxes that appear on Google when you search for entities (people, places, organizations, things) that are in the Knowledge Graph. They are meant to help you get a quick snapshot of information on a topic based on Google’s understanding of available content on the web.
+
+### Performance vs Releative content
+Speed and performance are important but not as much as content. providing more reach content and update it will have more effect than trying to score prefect on lighthouse or similar websites(TODO: add resource)
