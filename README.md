@@ -108,6 +108,9 @@ be aware that some. of these websites may not work with SPAs.
 If you have a single page accessible by multiple URLs, or different pages with similar content (for example, a page with both a mobile and a desktop version), Google sees these as duplicate versions of the same page. Google will choose one URL as the canonical version and crawl that, and all other URLs will be considered duplicate URLs and crawled less often. (Resource [google](https://support.google.com/webmasters/answer/139066?hl=en))
 There are some ways to specify a canonical page that you can refer to on the provided link.
 
+### SPA Solutions 
+Sometime its best to have SSR on your website instead of single page application for SEO, since google will not wait to much for your site to render and it will be in a queue to find time to render them.
+
 ### Some practices
 Never index search page in case you have search page this may cause black SEO problems and your site have too many pages with no data and mark as a duplicate (canonical may help with this).
 Have a 404/not found page.
