@@ -124,3 +124,7 @@ Knowledge panels are information boxes that appear on Google when you search for
 
 ### Performance vs Releative content
 Speed and performance are important but not as much as content. providing more reach content and update it will have more effect than trying to score perfectly on lighthouse or similar websites(TODO: add resource)
+
+### Understand how structured data works
+Helps with showing more rich data in google 
+Todo more detail
