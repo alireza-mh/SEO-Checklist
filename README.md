@@ -29,7 +29,8 @@ you can also validate your specific URLs with robots.txt on this  [address](http
 
 #### basic format
 ```txt
-User-agent: [user-agent name]Disallow: [URL string not to be crawled]
+User-agent: [user-agent name]
+Disallow: [URL string not to be crawled]
 ```
 ```txt
 User-agent: *
@@ -127,3 +128,4 @@ Speed and performance are important but not as much as content. providing more r
 
 ## Tips
 In case you have SPA and you want to check and see how google crawled your website you can search yor site inside google and click on cache to see your site
+[submit your content](https://support.google.com/webmasters/answer/6259634)
