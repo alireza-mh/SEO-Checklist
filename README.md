@@ -127,5 +127,6 @@ Knowledge panels are information boxes that appear on Google when you search for
 Speed and performance are important but not as much as content. providing more reach content and update it will have more effect than trying to score perfectly on lighthouse or similar websites(TODO: add resource)
 
 ## Tips
-In case you have SPA and you want to check and see how google crawled your website you can search yor site inside google and click on cache to see your site
+In case you have SPA and you want to check and see how google crawled your website you can search yor site inside google and click on cache to see your site.
+
 [submit your content](https://support.google.com/webmasters/answer/6259634)
