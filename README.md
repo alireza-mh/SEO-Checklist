@@ -134,4 +134,5 @@ Helps with showing more rich data in google
 ## Tips
 In case you have SPA and you want to check and see how google crawled your website you can search yor site inside google and click on cache to see your site.
 
-[submit your content](https://support.google.com/webmasters/answer/6259634)
+* [submit your content](https://support.google.com/webmasters/answer/6259634)
+* [SEO Tools](https://github.com/teles/awesome-seo)
