@@ -137,3 +137,4 @@ In case you have SPA and you want to check and see how google crawled your websi
 * [submit your content](https://support.google.com/webmasters/answer/6259634)
 * [SEO Tools](https://github.com/teles/awesome-seo)
 * [SEO reference](https://github.com/marcobiedermann/search-engine-optimization)
+* [Mozlow's hierarchy of SEO needs](https://moz.com/beginners-guide-to-seo)
