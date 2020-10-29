@@ -130,6 +130,8 @@ Speed and performance are important but not as much as content. providing more r
 ### Understand how structured data works
 Helps with showing more rich data in google 
 
+### Web vital
+seems to be important for SEO (TODO)
 
 ## Tips
 In case you have SPA and you want to check and see how google crawled your website you can search yor site inside google and click on cache to see your site.
