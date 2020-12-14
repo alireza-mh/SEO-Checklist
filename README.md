@@ -124,8 +124,10 @@ By adding last modified to site map file you can tell google bot that the conten
 Knowledge panels are information boxes that appear on Google when you search for entities (people, places, organizations, things) that are in the Knowledge Graph. They are meant to help you get a quick snapshot of information on a topic based on Google’s understanding of available content on the web.
 
 ### Performance vs Releative content
-Speed and performance are important but not as much as content. providing more reach content and update it will have more effect than trying to score perfectly on lighthouse and GTmetrix or similar websites(TODO: add resource)
+Speed and performance are important but not as much as content. providing more reach content and update it will have more effect than trying to score perfectly on lighthouse and [GTmetrix](https://gtmetrix.com/) similar websites(TODO: add resource)
 
+### GTmetrix 
+Recently GTmetrix change it own metric and migrate on webvital parametes. since it's not gonna use your network as lab result like what web.dev and lighthouse do it's gonna be more reliable for testing in my opinion. you can also change the server that would crawl your website. There is also an option for activating legacy mode. it's also ussefull since old metrics would still give you good insight with detail.
 
 ### Understand how structured data works
 Helps with showing more rich data in google 
