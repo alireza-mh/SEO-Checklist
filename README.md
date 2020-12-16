@@ -127,7 +127,7 @@ Knowledge panels are information boxes that appear on Google when you search for
 Speed and performance are important but not as much as content. providing more reach content and update it will have more effect than trying to score perfectly on lighthouse and [GTmetrix](https://gtmetrix.com/) similar websites(TODO: add resource)
 
 ### GTmetrix 
-Recently GTmetrix change it own metric and migrate on webvital parametes. since it's not gonna use your network as lab result like what web.dev and lighthouse do it's gonna be more reliable for testing in my opinion. you can also change the server that would crawl your website. There is also an option for activating legacy mode. it's also ussefull since old metrics would still give you good insight with detail.
+Recently GTmetrix changes its own metric and migrates on webvital parameters. since it's not gonna use your network as a lab result like what web.dev and lighthouse do it's gonna be more reliable for testing in my opinion. you can also change the server that would crawl your website. There is also an option for activating legacy mode. it's also useful since old metrics would still give you good insight with detail.
 
 ### Understand how structured data works
 Helps with showing more rich data in google 
