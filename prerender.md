@@ -6,3 +6,5 @@ Prerender simply try to render pages when the request from the search engines in
 #### Debug
 You just need to send a GET request with user-agent of google bot and see what is getting returned. In case you see the rendered HTML everything is working fine.
 Also be aware to not render any js/css files since there is no need for them also if they get rendered in Prerenderer it would be cause a problem (wrap every code inside of `pre` tag) in mobile friendly test of the google.
+
+There are some challenges with lazy loading and conditional rendering in mobile version which you need to overcome in prerender.
