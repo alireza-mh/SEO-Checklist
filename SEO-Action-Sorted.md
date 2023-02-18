@@ -20,7 +20,7 @@ Here are some of the most important SEO tips, sorted by importance:
 
 10. Analytics: Track your website's performance with web analytics tools like Google Analytics to monitor traffic, user behavior, and other key metrics.
 
-11. Remember, SEO is an ongoing process that requires constant attention and refinement. By focusing on these key areas, you can improve your website's visibility, attract more traffic, and achieve better rankings in search engines.
+Remember, SEO is an ongoing process that requires constant attention and refinement. By focusing on these key areas, you can improve your website's visibility, attract more traffic, and achieve better rankings in search engines.
 
 
 
